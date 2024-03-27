@@ -1,4 +1,4 @@
-('C:\\Users\\Renos\\Desktop\\Coding\\repos\\AutoFolderOpener\\build\\main\\PYZ-00.pyz',
+('C:\\Users\\Renos\\Desktop\\Coding\\repos\\SwiftFolder\\build\\main\\PYZ-00.pyz',
  [('_compat_pickle',
    'C:\\Users\\Renos\\anaconda3\\envs\\main\\Lib\\_compat_pickle.py',
    'PYMODULE'),
